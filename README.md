@@ -6,6 +6,10 @@ I’m Zac Moss, I’m a full-stack software engineer and alumni of the Makers Ac
 
 I learned to code after meeting software engineers working remote while on a rock climbing trip in Thailand. I loved the sound of a career that allowed so much flexibility! When I returned I entered lockdown and immediately started a course on Codecademy. I’ve been hooked ever since.
 
+[Check out my Github CV here](https://github.com/ZacMossHK/CV)
+
+[Check out my PDF CV here](https://github.com/ZacMossHK/CV/blob/master/ZacMossCV.pdf)
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
