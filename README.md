@@ -8,7 +8,7 @@ I learned to code after meeting software engineers working remote while on a roc
 
 [Check out my Github CV here](https://github.com/ZacMossHK/CV)
 
-[Check out my PDF CV here](https://github.com/ZacMossHK/CV/blob/master/ZacMossCV.pdf)
+[Check out my PDF CV here](https://github.com/ZacMossHK/CV/blob/master/ZacMossCVFeb2023.pdf)
 
 ## Projects
 
