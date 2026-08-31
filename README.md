@@ -11,7 +11,7 @@ terminal handling live card payments at a guesthouse in Spain.
 [LinkedIn](https://linkedin.com/in/zac-moss-79905823) · zac@zacmoss.co.uk
 
 **Working with:** TypeScript, JavaScript, Python · Selenium, Cypress,
-Cucumber/BDD, Jest, Maestro · React, React Native, Node.js, Next.js · Docker,
+Cucumber/BDD, Jest · React, React Native, Node.js, Next.js · Docker,
 PostgreSQL, CI/CD
 
 ---
@@ -33,10 +33,9 @@ Linux production.
 Helps climbers record and recall their moves on a climb. Includes a pan and zoom
 image manipulation tool with gesture control, animating over 100 individual
 elements at a consistent 60fps. Distributed to testers in the UK, Europe and the
-United States and iterated on their feedback. Unit and integration tests in Jest,
-end-to-end in Maestro.
+United States and iterated on their feedback.
 
-`TypeScript` `React Native` `Expo` `Jest` `Maestro`
+`TypeScript` `React Native` `Expo`
 
 ### [Remember to Vote](https://github.com/ZacMossHK/remember-to-vote) — polling station reminder service
 [remembertovote.org.uk](https://remembertovote.org.uk) · Built for
